@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Projeto Quiz" src=".github/preview.png" width="200px" />
+  <img alt="Projeto Quiz" src=".github/preview.PNG" width="200px" />
 </p>
 
 ## 🚀 Tecnologias
